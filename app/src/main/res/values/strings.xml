@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Login Options</string>
+    <string name="login_with">Login With</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_email_login">EmailLogin</string>
+    <string name="user_registration">User Registration</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="already_registered_sign_in_here">Already Registered? Sign in Here</string>
+    <string name="sign_up">Sign up</string>
+    <string name="logout">Logout</string>
+    <string name="not_have_an_account_signup_here">Not have an account? Signup Here</string>
+    <string name="login">Login</string>
+    <string name="user_login">User Login</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="done">Done</string>
+    <string name="otp_cde">OTP Cde</string>
+    <string name="verify">Verify</string>
+    <string name="_10_digits">10 Digits</string>
+    <string name="facebook_app_id">198065191039496</string>
+    <string name="fb_login_protocol_scheme">fb198065191039496</string>
+</resources>
